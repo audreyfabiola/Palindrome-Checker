@@ -1,7 +1,6 @@
 import java.util.Stack;
 import java.util.Scanner;
 
-
 public class PalindromeStack {
     private static String buildReverse(String inputString) {
         //Create an empty stack
